@@ -6,3 +6,6 @@
  * @LastEditors: luolei
  * @LastEditTime: 2020-12-17 12:58:10
  */
+module.exports = {
+  extends: ['@commitlint/config-conventional']
+};
